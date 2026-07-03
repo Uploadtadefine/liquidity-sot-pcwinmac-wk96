@@ -1,4 +1,4 @@
-# 
+# VIP liquidity sniper bot 预设 Mac OS版 | 轻量 liquidity sniper bot 预设 PC Windows版。集成 投资组合管理 和 MEV提取，跨平台性能最大化。
 
 
 
